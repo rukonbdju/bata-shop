@@ -1,0 +1,293 @@
+
+
+
+
+[
+    
+    {
+        "category":"men",
+        "subcategory":"casual shoes",
+        "brand":"bata",
+        "name":"Bata LUTHOR Half-Moc",
+        "size":["7","8","9","10"],
+        "price":"2549.00",
+        "quantity":"7",
+        "description":{
+            "product_ditails":"It's a whole new world once you put the Bata LUTHOR Half-Moc on your foot, that's for sure. Putting on these half casuals is an adventure in and of itself. This half-moc is not only fashionable but also highly comfortable to wear with its' special massage insole. No need to be worried about how long the product will last. Because it is developed of very high-quality leather.",
+            "features":{
+                "type":"Casual half-moc",
+                "gender":"Men",
+                "upper_material":"Leather",
+                "color":["Black"],
+                "sole":"TRP",
+                "closing":"Closed"
+            },
+            "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+
+        },
+        "image":"",
+        "discount":"15",
+        "promocode":"batabd"
+        
+    },
+    {
+        "category":"men",
+        "subcategory":"casual shoes",
+        "brand":"bata",
+        "name":"Bata AUSTON Casual Loafer",
+        "size":["7","8","9","10"],
+        "price":"2549.00",
+        "quantity":"7",
+        "description":{
+            "product_ditails":"Elevate your style with this Bata men’s loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It’s lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+            "features":{
+                "type":"Loafer",
+                "gender":"Men",
+                "upper_material":"PU",
+                "color":["Black"],
+                "sole":"TPR",
+                "closing":"Closed"
+            },
+            "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+
+        },
+        "image":"",
+        "discount":"15",
+        "promocode":"batabd"
+        
+    },
+    {
+        "category":"men",
+        "subcategory":"casual shoes",
+        "brand":"North Star",
+        "name":"North Star FAVIAN Sneaker For Men",
+        "size":["7","8","9","10"],
+        "price":"2549.00",
+        "quantity":"7",
+        "description":{
+            "product_ditails":"Elevate your style with this Bata men’s loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It’s lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+            "features":{
+                "type":"Loafer",
+                "gender":"Men",
+                "upper_material":"Mesh",
+                "color":["Grey"],
+                "sole":"Phylon",
+                "closing":"Closed"
+            },
+            "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+
+        },
+        "image":"",
+        "discount":"15",
+        "promocode":"batabd"
+        
+    },
+    {
+        "category":"men",
+        "subcategory":"Formal shoes",
+        "brand":"Bata",
+        "name":"Bata Slip-On Formal Shoe In Black",
+        "size":["7","8","9","10"],
+        "price":"2549.00",
+        "quantity":"7",
+        "description":{
+            "product_ditails":"Elevate your style with this Bata men’s loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It’s lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+            "features":{
+                "type":"Slip-on Dress Shoe",
+                "gender":"Men",
+                "upper_material":"Leather",
+                "color":["Black"],
+                "sole":"TPR",
+                "closing":"Closed"
+            },
+            "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+
+        },
+        "image":"",
+        "discount":"15",
+        "promocode":"batabd"
+        
+    },
+    {
+        "category":"men",
+        "subcategory":"Formal shoes",
+        "brand":"Bata",
+        "name":"Bata ATLANTIC Formal Shoe For Men",
+        "size":["7","8","9","10"],
+        "price":"2549.00",
+        "quantity":"7",
+        "description":{
+            "product_ditails":"Elevate your style with this Bata men’s loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It’s lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+            "features":{
+                "type":"Slip-on Dress Shoe",
+                "gender":"Men",
+                "upper_material":"Leather",
+                "color":["Black"],
+                "sole":"TPR",
+                "closing":"Closed"
+            },
+            "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+
+        },
+        "image":"",
+        "discount":"15",
+        "promocode":"batabd"
+        
+    },
+    {
+        "category":"men",
+        "subcategory":"Formal shoes",
+        "brand":"Hush Puppies",
+        "name":"Hush Puppies Thunderbird Classic Dress Shoe For Men",
+        "size":["7","8","9","10"],
+        "price":"2549.00",
+        "quantity":"7",
+        "description":{
+            "product_ditails":"Elevate your style with this Bata men’s loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It’s lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+            "features":{
+                "type":"Slip-on Dress Shoe",
+                "gender":"Men",
+                "upper_material":"Leather",
+                "color":["Brown"],
+                "sole":"TPR",
+                "closing":"Closed"
+            },
+            "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+
+        },
+        "image":"",
+        "discount":"15",
+        "promocode":"batabd"
+        
+    },
+    {
+        "category":"men",
+        "subcategory":"Mens Sandal",
+        "brand":"Hush Puppies",
+        "name":"Hush Puppies FlipFlop Sandal",
+        "size":["7","8","9","10"],
+        "price":"849.00",
+        "quantity":"7",
+        "description":{
+            "product_ditails":"Elevate your style with this Bata men’s loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It’s lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+            "features":{
+                "type":"Slipper/Flip-Flop",
+                "gender":"Men",
+                "upper_material":"Textile",
+                "color":["Green"],
+                "sole":"EVA",
+                "closing":"Open"
+            },
+            "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+
+        },
+        "image":"",
+        "discount":"15",
+        "promocode":"batabd"
+        
+    },
+    {
+        "category":"men",
+        "subcategory":"Mens Sandal",
+        "brand":"Comfits",
+        "name":"Men's Comfit FIELDER Fisherman Style Sandal",
+        "size":["7","8","9","10"],
+        "price":"849.00",
+        "quantity":"7",
+        "description":{
+            "product_ditails":"Elevate your style with this Bata men’s loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It’s lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+            "features":{
+                "type":"Sandal",
+                "gender":"Men",
+                "upper_material":"PU",
+                "color":["Brown"],
+                "sole":"TPR",
+                "closing":"Partially closed"
+            },
+            "style_tips":"Consider slipping into it with a smart pair of trousers which is slightly wider leg, but with a gentle taper down to a cropped ankle with a collared shirt which will be an outfit firmly in the realm of smart-casual attire."
+
+        },
+        "image":"",
+        "discount":"15",
+        "promocode":"batabd"
+        
+    },
+    {
+        "category":"men",
+        "subcategory":"Mens Sandal",
+        "brand":"PataPata",
+        "name":"PATA PATA PEACE Summer Flip Flop",
+        "size":["7","8","9","10"],
+        "price":"849.00",
+        "quantity":"7",
+        "description":{
+            "product_ditails":"A rubber-filled sole enhances the blue canvas thong on this PATA PATA Rubber Flip Flop. They are super comfy to wear. They are appropriate for regular casual wear and beach or boardwalk out. Because of its extensive ventilation capabilities, it is excellent for the summer season.",
+            "features":{
+                "type":"Flip-flop",
+                "gender":"Men",
+                "upper_material":"Canvas",
+                "color":["Black"],
+                "sole":"Rubber",
+                "closing":"Open"
+            },
+            "style_tips":"Wear black pants with light-colored t-shirts to achieve the enthusiastic effect. These flip-flops can be paired with denim shorts and a polo for a more casual appearance that can last all day. With a pair of black sunglasses, you'll instantly look more stylish and up to date."
+
+        },
+        "image":"",
+        "discount":"15",
+        "promocode":"batabd"
+        
+    },
+    {
+        "category":"men",
+        "subcategory":"Sports",
+        "brand":"Adidas",
+        "name":"ADIDAS Men's Glenn M Ngtsky Sneakers",
+        "size":["7","8","9","10"],
+        "price":"1449.00",
+        "quantity":"7",
+        "description":{
+            "product_ditails":"Grab these awesome Adidas sneakers for your everyday wear. This Glenn M Ngtsky project is crafted with mesh upper, lace-up styling & a round toe that ensures added comfort & breathability. It comes with a light strike EVA midsole for lightweight cushioning ensuring longevity & shock absorption with a full rubber outsole for durability.",
+            "features":{
+                "type":"Sneakers",
+                "gender":"Men",
+                "upper_material":"Mesh",
+                "color":["Black"],
+                "sole":"Rubber",
+                "closing":"Open"
+            },
+            "style_tips":"Wear black pants with light-colored t-shirts to achieve the enthusiastic effect. These flip-flops can be paired with denim shorts and a polo for a more casual appearance that can last all day. With a pair of black sunglasses, you'll instantly look more stylish and up to date."
+
+        },
+        "image":"",
+        "discount":"15",
+        "promocode":"batabd"
+        
+    },
+    {
+        "category":"men",
+        "subcategory":"Sports",
+        "brand":"Power",
+        "name":"Wave Molle Olive Green Sneaker For Men",
+        "size":["7","8","9","10"],
+        "price":"1449.00",
+        "quantity":"7",
+        "description":{
+            "product_ditails":"These black running shoes by Power are just what you need in your work-out-wear collection which offer both style & comfort. This has regular styling, lace-up detail, cushioned footbed & & patterned outsole",
+            "features":{
+                "type":"Sports Shoe",
+                "gender":"Men",
+                "upper_material":"Mesh",
+                "color":["Black"],
+                "sole":"Phylon",
+                "closing":"Closed"
+            },
+            "style_tips":"These shoes can be styled with a pair of grey shorts & a striped T-shirt to look your best."
+
+        },
+        "image":"",
+        "discount":"15",
+        "promocode":"batabd"
+        
+    }
+]
