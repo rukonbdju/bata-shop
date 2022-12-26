@@ -18,10 +18,11 @@ const Login = () => {
     const [SignInWithEmailAndPassword, eUser, eLoading, eError] = useSignInWithEmailAndPassword(auth);
 
     return (
-        <div className='my-10'>
+        <section  className='my-10 w-3/4 mx-auto flex flex-col md:flex-col lg:flex-row items-center justify-center gap-5'>
+            <div>
             <div className='mb-10'>
-                <h1 className='text-3xl font-bold text-center'>Login Your Account</h1>
-                <p className='text-center'>Welcome back! Login to your account</p>
+                <h1 className='text-3xl font-bold text-center uppercase'>Log in To Your Account</h1>
+                <p className='text-center'>Welcome back! If you already have an account please login.</p>
             </div>
             <form onSubmit={handleSubmit(onSubmit, onError)} className='flex flex-col max-w-xl mx-auto gap-4'>
                 <div className=''>
@@ -54,18 +55,31 @@ const Login = () => {
                     {errors.password?.type==='required'&& <p className='text-red-700'>{errors.password.message}</p>}
                     {errors.password?.type==='minLength'&&  <p className='text-red-700'>{errors.password.message}</p>}
                 </div>
-                <button className='border-2 p-2' type="submit">Login</button>
-                <p className='text-xl font-bold'>New to Bata? <Link className='text-red-700 hover:underline' to='/register'>Register Now!</Link></p>
+                <button className='border-2 p-2 font-bold uppercase hover:text-white hover:bg-slate-900' type="submit">Login</button>
+                
             </form>
             <div className='flex flex-row items-center gap-3 my-5 justify-center max-w-xl mx-auto'>
                 <div className='border-t w-full'></div>
                 <p>Or</p>
                 <div className='border-t w-full'></div>
             </div>
-            <section className='max-w-xl mx-auto'>
+            <section className='max-w-xl mx-auto mb-10'>
                 <input onClick={() => signInWithGoogle()} className='border-2 rounded w-full p-2 cursor-pointer font-bold text-white bg-slate-900 hover:text-slate-800 hover:bg-white ' type="submit" value='SIGN IN WITH GOOGLE' />
             </section>
         </div>
+        <div className='max-w-xl mx-auto'>
+            <h1 className='text-3xl font-bold uppercase text-red-700'>Don't have an account?</h1>
+            <p>Create an account and Register yourself as BATA Club member! Bata club members can enjoy exclusive benefits.</p>
+            <div>
+                <p>1 BDT = 1 point</p>
+                <p>Welcome benefits when you sign-up</p>
+                <p>Rewards with every purchase</p>
+            </div>
+            <div className='my-4'>
+            <Link to='/register'><button className='border-2 border-red-700 text-red-700 p-2 font-bold uppercase hover:text-white hover:bg-red-700'>Create a Account</button></Link>
+            </div>
+        </div>
+        </section>
     );
 };
 

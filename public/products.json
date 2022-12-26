@@ -1,293 +1,890 @@
-
-
-
-
 [
-    
     {
         "category":"men",
-        "subcategory":"casual shoes",
-        "brand":"bata",
-        "name":"Bata LUTHOR Half-Moc",
-        "size":["7","8","9","10"],
-        "price":"2549.00",
-        "quantity":"7",
-        "description":{
-            "product_ditails":"It's a whole new world once you put the Bata LUTHOR Half-Moc on your foot, that's for sure. Putting on these half casuals is an adventure in and of itself. This half-moc is not only fashionable but also highly comfortable to wear with its' special massage insole. No need to be worried about how long the product will last. Because it is developed of very high-quality leather.",
-            "features":{
-                "type":"Casual half-moc",
-                "gender":"Men",
-                "upper_material":"Leather",
-                "color":["Black"],
-                "sole":"TRP",
-                "closing":"Closed"
-            },
-            "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
-
-        },
-        "image":"",
-        "discount":"15",
-        "promocode":"batabd"
-        
+        "subcategory": "casual shoes",
+        "brand": "Bata",
+        "name": "Bata Casual Sandel",
+        "img":"https://i.ibb.co/0r4hWRY/men1.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "Men",
+        "price": "549.00",
+        "discount": "10",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+    }, 
+    {
+        "category":"men",
+        "subcategory": "Sports shoes",
+        "brand": "Adidas",
+        "name": "Adidas AUSTON Casual snackers",
+        "img":"https://i.ibb.co/hgF1zch/men2.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "Men",
+        "price": "2549.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+    }, 
+    {
+        "category":"men",
+        "subcategory": "casual shoes",
+        "brand": "Bata",
+        "name": "Bata Casual Sandel",
+        "img":"https://i.ibb.co/s6WNbnc/men3.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "Men",
+        "price": "549.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+    }, 
+    {
+        "category":"men",
+        "subcategory": "Formal shoes",
+        "brand": "Bata",
+        "name": "Bata AUSTON Formal Loafer",
+        "img":"https://i.ibb.co/C5RTPHm/men4.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "Men",
+        "price": "2049.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+    }, 
+    {
+        "category":"men",
+        "subcategory": "casual shoes",
+        "brand": "Bata",
+        "name": "Bata AUSTON Casual Loafer",
+        "img":"https://i.ibb.co/bBgvW3p/men5.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "Men",
+        "price": "2549.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+    }, 
+    {
+        "category":"men",
+        "subcategory": "casual shoes",
+        "brand": "Adidas",
+        "name": "Adidas AUSTON Casual Sandel",
+        "img":"https://i.ibb.co/vqswM0G/men6.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "Men",
+        "price": "449.00",
+        "discount": "10",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+    }, 
+    {
+        "category":"men",
+        "subcategory": "Snackers",
+        "brand": "Power",
+        "name": "Power AUSTON Snackers",
+        "img":"https://i.ibb.co/7rgQdQN/men7.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "Men",
+        "price": "2549.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+    }, 
+    {
+        "category":"men",
+        "subcategory": "casual shoes",
+        "brand": "bata",
+        "name": "Bata AUSTON Casual",
+        "img":"https://i.ibb.co/nM3LxnD/men8.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "Men",
+        "price": "500.00",
+        "discount": "10",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+    }, 
+    {
+        "category":"men",
+        "subcategory": "casual shoes",
+        "brand": "Bata",
+        "name": "Bata AUSTON Casual Loafer",
+        "img":"https://i.ibb.co/zmnc64n/men9.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "Men",
+        "price": "1849.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+    }, 
+    {
+        "category":"men",
+        "subcategory": "Snackers",
+        "brand": "Power",
+        "name": "Power AUSTON Sports",
+        "img":"https://i.ibb.co/ZMY1bMV/men10.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "Men",
+        "price": "2549.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+    }, 
+    {
+        "category":"men",
+        "subcategory": "casual shoes",
+        "brand": "Bata",
+        "name": "Bata AUSTON Casual Loafer",
+        "img":"https://i.ibb.co/QQJX8m1/men11.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "Men",
+        "price": "1749.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+    }, 
+    {
+        "category":"men",
+        "subcategory": "casual shoes",
+        "brand": "bata",
+        "name": "Bata AUSTON Casual Loafer",
+        "img":"https://i.ibb.co/GCkCf4y/men12.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "Men",
+        "price": "1549.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+    }, 
+    {
+        "category":"men",
+        "subcategory": "casual shoes",
+        "brand": "bata",
+        "name": "Bata AUSTON Casual Loafer",
+        "img":"https://i.ibb.co/QFrjWjg/men13.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "Men",
+        "price": "2149.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+    }, 
+    {
+        "category":"men",
+        "subcategory": "casual shoes",
+        "brand": "bata",
+        "name": "Bata AUSTON Casual Loafer",
+        "img":"https://i.ibb.co/TL1jRjN/men14.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "Men",
+        "price": "1949.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+    }, 
+    {
+        "category":"women",
+        "subcategory": "Women Sandel",
+        "brand": "bata",
+        "name": "Bata Ladies Sandel",
+        "img":"https://i.ibb.co/vJG7LDR/women1.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "women",
+        "price": "1349.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
     },
     {
-        "category":"men",
-        "subcategory":"casual shoes",
-        "brand":"bata",
-        "name":"Bata AUSTON Casual Loafer",
-        "size":["7","8","9","10"],
-        "price":"2549.00",
-        "quantity":"7",
-        "description":{
-            "product_ditails":"Elevate your style with this Bata men’s loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It’s lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
-            "features":{
-                "type":"Loafer",
-                "gender":"Men",
-                "upper_material":"PU",
-                "color":["Black"],
-                "sole":"TPR",
-                "closing":"Closed"
-            },
-            "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
-
-        },
-        "image":"",
-        "discount":"15",
-        "promocode":"batabd"
-        
+        "category":"women",
+        "subcategory": "Ladies Sports",
+        "brand": "Power",
+        "name": "Power AUSTON Ladies Sports",
+        "img":"https://i.ibb.co/QPSVdqN/women2.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "women",
+        "price": "2149.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
     },
     {
-        "category":"men",
-        "subcategory":"casual shoes",
-        "brand":"North Star",
-        "name":"North Star FAVIAN Sneaker For Men",
-        "size":["7","8","9","10"],
-        "price":"2549.00",
-        "quantity":"7",
-        "description":{
-            "product_ditails":"Elevate your style with this Bata men’s loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It’s lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
-            "features":{
-                "type":"Loafer",
-                "gender":"Men",
-                "upper_material":"Mesh",
-                "color":["Grey"],
-                "sole":"Phylon",
-                "closing":"Closed"
-            },
-            "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
-
-        },
-        "image":"",
-        "discount":"15",
-        "promocode":"batabd"
-        
+        "category":"women",
+        "subcategory": "Ladies Sandels",
+        "brand": "Bata",
+        "name": "Bata AUSTON Casual Sandels",
+        "img":"https://i.ibb.co/2YM8zB9/women3.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "women",
+        "price": "1049.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
     },
     {
-        "category":"men",
-        "subcategory":"Formal shoes",
-        "brand":"Bata",
-        "name":"Bata Slip-On Formal Shoe In Black",
-        "size":["7","8","9","10"],
-        "price":"2549.00",
-        "quantity":"7",
-        "description":{
-            "product_ditails":"Elevate your style with this Bata men’s loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It’s lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
-            "features":{
-                "type":"Slip-on Dress Shoe",
-                "gender":"Men",
-                "upper_material":"Leather",
-                "color":["Black"],
-                "sole":"TPR",
-                "closing":"Closed"
-            },
-            "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
-
-        },
-        "image":"",
-        "discount":"15",
-        "promocode":"batabd"
-        
+        "category":"women",
+        "subcategory": "Ladies Sandel",
+        "brand": "Bata",
+        "name": " AUSTON Sendels",
+        "img":"https://i.ibb.co/Cb2TL08/women4.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "women",
+        "price": "549.00",
+        "discount": "10",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
     },
     {
-        "category":"men",
-        "subcategory":"Formal shoes",
-        "brand":"Bata",
-        "name":"Bata ATLANTIC Formal Shoe For Men",
-        "size":["7","8","9","10"],
-        "price":"2549.00",
-        "quantity":"7",
-        "description":{
-            "product_ditails":"Elevate your style with this Bata men’s loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It’s lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
-            "features":{
-                "type":"Slip-on Dress Shoe",
-                "gender":"Men",
-                "upper_material":"Leather",
-                "color":["Black"],
-                "sole":"TPR",
-                "closing":"Closed"
-            },
-            "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
-
-        },
-        "image":"",
-        "discount":"15",
-        "promocode":"batabd"
-        
+        "category":"women",
+        "subcategory": "Ladies Heel",
+        "brand": "Bata",
+        "name": "Bata AUSTON Ladies Heel",
+        "img":"https://i.ibb.co/2Y6RdNM/women5.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "women",
+        "price": "1849.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
     },
     {
-        "category":"men",
-        "subcategory":"Formal shoes",
-        "brand":"Hush Puppies",
-        "name":"Hush Puppies Thunderbird Classic Dress Shoe For Men",
-        "size":["7","8","9","10"],
-        "price":"2549.00",
-        "quantity":"7",
-        "description":{
-            "product_ditails":"Elevate your style with this Bata men’s loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It’s lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
-            "features":{
-                "type":"Slip-on Dress Shoe",
-                "gender":"Men",
-                "upper_material":"Leather",
-                "color":["Brown"],
-                "sole":"TPR",
-                "closing":"Closed"
-            },
-            "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
-
-        },
-        "image":"",
-        "discount":"15",
-        "promocode":"batabd"
-        
+        "category":"women",
+        "subcategory": "Ladies Sports",
+        "brand": "bata",
+        "name": "Bata AUSTON Ladies Sports",
+        "img":"https://i.ibb.co/Cs4nPJ4/women6.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "women",
+        "price": "1849.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
     },
     {
-        "category":"men",
-        "subcategory":"Mens Sandal",
-        "brand":"Hush Puppies",
-        "name":"Hush Puppies FlipFlop Sandal",
-        "size":["7","8","9","10"],
-        "price":"849.00",
-        "quantity":"7",
-        "description":{
-            "product_ditails":"Elevate your style with this Bata men’s loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It’s lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
-            "features":{
-                "type":"Slipper/Flip-Flop",
-                "gender":"Men",
-                "upper_material":"Textile",
-                "color":["Green"],
-                "sole":"EVA",
-                "closing":"Open"
-            },
-            "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
-
-        },
-        "image":"",
-        "discount":"15",
-        "promocode":"batabd"
-        
+        "category":"women",
+        "subcategory": "Ladies Sendel",
+        "brand": "North Star",
+        "name": "North Star AUSTON Sendels",
+        "img":"https://i.ibb.co/mCJBDmk/women7.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "women",
+        "price": "549.00",
+        "discount": "10",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
     },
     {
-        "category":"men",
-        "subcategory":"Mens Sandal",
-        "brand":"Comfits",
-        "name":"Men's Comfit FIELDER Fisherman Style Sandal",
-        "size":["7","8","9","10"],
-        "price":"849.00",
-        "quantity":"7",
-        "description":{
-            "product_ditails":"Elevate your style with this Bata men’s loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It’s lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
-            "features":{
-                "type":"Sandal",
-                "gender":"Men",
-                "upper_material":"PU",
-                "color":["Brown"],
-                "sole":"TPR",
-                "closing":"Partially closed"
-            },
-            "style_tips":"Consider slipping into it with a smart pair of trousers which is slightly wider leg, but with a gentle taper down to a cropped ankle with a collared shirt which will be an outfit firmly in the realm of smart-casual attire."
-
-        },
-        "image":"",
-        "discount":"15",
-        "promocode":"batabd"
-        
+        "category":"women",
+        "subcategory": "Ladies Heel",
+        "brand": "Bata",
+        "name": "Bata AUSTON Ladies Heel",
+        "img":"https://i.ibb.co/1vJwHf6/women8.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "women",
+        "price": "1549.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
     },
     {
-        "category":"men",
-        "subcategory":"Mens Sandal",
-        "brand":"PataPata",
-        "name":"PATA PATA PEACE Summer Flip Flop",
-        "size":["7","8","9","10"],
-        "price":"849.00",
-        "quantity":"7",
-        "description":{
-            "product_ditails":"A rubber-filled sole enhances the blue canvas thong on this PATA PATA Rubber Flip Flop. They are super comfy to wear. They are appropriate for regular casual wear and beach or boardwalk out. Because of its extensive ventilation capabilities, it is excellent for the summer season.",
-            "features":{
-                "type":"Flip-flop",
-                "gender":"Men",
-                "upper_material":"Canvas",
-                "color":["Black"],
-                "sole":"Rubber",
-                "closing":"Open"
-            },
-            "style_tips":"Wear black pants with light-colored t-shirts to achieve the enthusiastic effect. These flip-flops can be paired with denim shorts and a polo for a more casual appearance that can last all day. With a pair of black sunglasses, you'll instantly look more stylish and up to date."
-
-        },
-        "image":"",
-        "discount":"15",
-        "promocode":"batabd"
-        
+        "category":"women",
+        "subcategory": "Ladies Heel",
+        "brand": "Power",
+        "name": "Power AUSTON Ladies Heel",
+        "img":"https://i.ibb.co/YkcfMTc/women9.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "women",
+        "price": "2549.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
     },
     {
-        "category":"men",
-        "subcategory":"Sports",
-        "brand":"Adidas",
-        "name":"ADIDAS Men's Glenn M Ngtsky Sneakers",
-        "size":["7","8","9","10"],
-        "price":"1449.00",
-        "quantity":"7",
-        "description":{
-            "product_ditails":"Grab these awesome Adidas sneakers for your everyday wear. This Glenn M Ngtsky project is crafted with mesh upper, lace-up styling & a round toe that ensures added comfort & breathability. It comes with a light strike EVA midsole for lightweight cushioning ensuring longevity & shock absorption with a full rubber outsole for durability.",
-            "features":{
-                "type":"Sneakers",
-                "gender":"Men",
-                "upper_material":"Mesh",
-                "color":["Black"],
-                "sole":"Rubber",
-                "closing":"Open"
-            },
-            "style_tips":"Wear black pants with light-colored t-shirts to achieve the enthusiastic effect. These flip-flops can be paired with denim shorts and a polo for a more casual appearance that can last all day. With a pair of black sunglasses, you'll instantly look more stylish and up to date."
-
-        },
-        "image":"",
-        "discount":"15",
-        "promocode":"batabd"
-        
+        "category":"women",
+        "subcategory": "Ladies Heel",
+        "brand": "Bata",
+        "name": "Bata AUSTON Casual",
+        "img":"https://i.ibb.co/qWWYhz8/women10.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "women",
+        "price": "1349.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
     },
     {
-        "category":"men",
-        "subcategory":"Sports",
-        "brand":"Power",
-        "name":"Wave Molle Olive Green Sneaker For Men",
-        "size":["7","8","9","10"],
-        "price":"1449.00",
-        "quantity":"7",
-        "description":{
-            "product_ditails":"These black running shoes by Power are just what you need in your work-out-wear collection which offer both style & comfort. This has regular styling, lace-up detail, cushioned footbed & & patterned outsole",
-            "features":{
-                "type":"Sports Shoe",
-                "gender":"Men",
-                "upper_material":"Mesh",
-                "color":["Black"],
-                "sole":"Phylon",
-                "closing":"Closed"
-            },
-            "style_tips":"These shoes can be styled with a pair of grey shorts & a striped T-shirt to look your best."
-
-        },
-        "image":"",
-        "discount":"15",
-        "promocode":"batabd"
-        
+        "category":"women",
+        "subcategory": "Ladies Sendel",
+        "brand": "Bata",
+        "name": "Bata AUSTON Casual Sendels",
+        "img":"https://i.ibb.co/D7wPDhK/women11.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "women",
+        "price": "1549.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+    },
+    {
+        "category":"women",
+        "subcategory": "Ladies Heel",
+        "brand": "Bata",
+        "name": "Bata AUSTON Casual Heel",
+        "img":"https://i.ibb.co/BVTKxxM/women12.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "women",
+        "price": "1849.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+    },
+    {
+        "category":"kid",
+        "subcategory": "boys",
+        "brand": "Bata",
+        "name": "B.First OSCAR SCHOOL DRESS Shoe",
+        "img":"https://i.ibb.co/9tjqxf9/kids1.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "men",
+        "price": "1749.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+    },
+    {
+        "category":"kid",
+        "subcategory": "boys",
+        "brand": "North Star",
+        "name": "BubbleGummers CERES Crocs For Kids",
+        "img":"https://i.ibb.co/FwgV5Gx/kids2.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "women",
+        "price": "1549.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+    },
+    {
+        "category":"kid",
+        "subcategory": "boys",
+        "brand": "bata",
+        "name": "BubbleGummers URBAN Belt Sandal For Little Girls",
+        "img":"https://i.ibb.co/HXbT3ZV/kids3.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "women",
+        "price": "1349.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+    },
+    {
+        "category":"kid",
+        "subcategory": "boys",
+        "brand": "Power",
+        "name": "PowerPuff Girls' Toe-Post Sandal For Baby Girls",
+        "img":"https://i.ibb.co/34m7LHm/kids4.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "men",
+        "price": "2549.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+    },
+    {
+        "category":"kid",
+        "subcategory": "boys",
+        "brand": "bata",
+        "name": "PowerPuff Girls' Toe-Post Sandal For Baby Girls",
+        "img":"https://i.ibb.co/8dyg6v3/kids5.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "women",
+        "price": "1549.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+    },
+    {
+        "category":"kid",
+        "subcategory": "boys",
+        "brand": "bata",
+        "name": "BubbleGummers CERES Crocs For Kids",
+        "img":"https://i.ibb.co/Gk5n4WS/kids6.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "women",
+        "price": "2549.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+    },
+    {
+        "category":"kid",
+        "subcategory": "boys",
+        "brand": "Bata",
+        "name": "Bata Juniors' YOUNGMAN Belt Sandal",
+        "img":"https://i.ibb.co/41bBqh7/kids7.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "men",
+        "price": "1449.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+    },
+    {
+        "category":"kid",
+        "subcategory": "boys",
+        "brand": "bata",
+        "name": "BubbleGummers CERES Crocs For Kids",
+        "img":"https://i.ibb.co/mFH2Ptz/kids8.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "women",
+        "price": "2549.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+    },
+    {
+        "category":"kid",
+        "subcategory": "boys",
+        "brand": "bata",
+        "name": "Bata AUSTON Casual Loafer",
+        "img":"https://i.ibb.co/LgxWMYM/kids9.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "women",
+        "price": "2549.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+    },
+    {
+        "category":"kid",
+        "subcategory": "boys",
+        "brand": "bata",
+        "name": "BubbleGummers Free Move Sneaker For Kids",
+        "img":"https://i.ibb.co/PZTnGW7/kids10.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "men",
+        "price": "2549.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
+    },
+    {
+        "category":"kid",
+        "subcategory": "boys",
+        "brand": "Bata",
+        "name": "BubbleGummers Free Move Sneaker For Kids",
+        "img":"https://i.ibb.co/5TCM996/kids11.png",
+        "quantity": "7",
+        "product_ditails": "Elevate your style with this Bata men's loafer. You can use it both formally and casually because this loafer can be a nice bridge between casual and formal. The upper material is PU artificial leather which is water resilient and more durable than ordinary leather. It's lightweight which is one of the main preferences when choosing your shoe. The sole is made of TPR which gives you a strong grip even on muddy roads allowing you to walk confidently in any weather. TPR is washable unlike leather soles and also more durable. It can be perfect for business meetings, office hours, and formal or informal occasions.",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "color": [
+            "Black"
+        ],
+        "rating":"5",
+        "gender": "men",
+        "price": "2149.00",
+        "discount": "15",
+        "promocode": "batabd",
+        "style_tips":"These shoes can be paired with various denim styles, including relaxed, cargo, high-waisted, and pleated."
     }
 ]

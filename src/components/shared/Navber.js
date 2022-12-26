@@ -17,7 +17,7 @@ const Navber = () => {
                     <Link className='hover:bg-slate-400 rounded px-2 hover:text-white'  to="/home">Home</Link>
                     <Link className='hover:bg-slate-400 rounded px-2 hover:text-white'  to="/men">Men</Link>
                     <Link className='hover:bg-slate-400 rounded px-2 hover:text-white'  to="/women">Women</Link>
-                    <Link className='hover:bg-slate-400 rounded px-2 hover:text-white'  to="/children">Children</Link>
+                    <Link className='hover:bg-slate-400 rounded px-2 hover:text-white'  to="/kid">Kids</Link>
                     <Link className='hover:bg-slate-400 rounded px-2 hover:text-white'  to="/blogs">Blogs</Link>
                 </div>
                 <div>
@@ -55,21 +55,7 @@ const Navber = () => {
                     <Link className='hover:bg-slate-400 rounded block px-3'  onClick={() => setOpenMenu(false)} to="/home">Home</Link>
                     <Link className='hover:bg-slate-400 rounded block px-3'  onClick={() => setOpenMenu(false)} to="/men">Men</Link>
                     <Link className='hover:bg-slate-400 rounded block px-3'  onClick={() => setOpenMenu(false)} to="/women">Women</Link>
-                    <Link className='hover:bg-slate-400 rounded block px-3'  onClick={() => setOpenMenu(false)} to="/children">Children</Link>
-                    <Link className='hover:bg-slate-400 rounded block px-3'  onClick={() => setOpenMenu(false)} to="/accessories">Accessories</Link>
-                    <div className='relative group'>
-                        <div className='group-hover:block'>
-                            <Link className='inline-block'>Brand <FaAngleDown className='inline'/></Link>
-                        </div>
-                        <div className='absolute hidden group-hover:flex flex-col gap-3 bg-slate-200 z-40 p-3'>
-                            <Link className='hover:bg-slate-400 flex flex-nowrap rounded'>Adidas</Link>
-                            <Link className='hover:bg-slate-400 flex flex-nowrap rounded'>Bata</Link>
-                            <Link className='hover:bg-slate-400 flex flex-nowrap rounded'>Comfits</Link>
-                            <Link className='hover:bg-slate-400 flex flex-nowrap rounded'>Hush_Puppies</Link>
-                            <Link className='hover:bg-slate-400 flex flex-nowrap rounded'>North_Star</Link>
-                            <Link className='hover:bg-slate-400 flex flex-nowrap rounded'>power</Link>
-                        </div>
-                    </div>
+                    <Link className='hover:bg-slate-400 rounded block px-3'  onClick={() => setOpenMenu(false)} to="/kid">Kids</Link>
                     <Link className='hover:bg-slate-400 rounded block px-3'  onClick={() => setOpenMenu(false)} to="/blogs">Blogs</Link>
                 </div>
             }
