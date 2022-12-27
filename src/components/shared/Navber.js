@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { MdAccountCircle, MdClear } from "react-icons/md";
-import { FaCartArrowDown, FaBars,FaSistrix, FaAngleDown } from "react-icons/fa";
+import { FaCartArrowDown, FaBars, FaSistrix } from "react-icons/fa";
 import logo from '../../assets/logo/bata.png'
 import { Link } from 'react-router-dom';
 
@@ -11,13 +11,13 @@ const Navber = () => {
         <nav className='bg-slate-200 p-2 relative '>
             <div className='flex flex-row justify-between items-center lg:w-11/12 mx-auto'>
                 <div>
-                    <img src={logo} alt="" srcset="" />
+                    <img src={logo} alt="" srcSet="" />
                 </div>
                 <div className='hidden sm:hidden md:hidden lg:flex flex-row gap-8 text-base font-bold items-center text-slate-600'>
                     <Link className='hover:bg-slate-400 rounded px-2 hover:text-white'  to="/home">Home</Link>
                     <Link className='hover:bg-slate-400 rounded px-2 hover:text-white'  to="/men">Men</Link>
                     <Link className='hover:bg-slate-400 rounded px-2 hover:text-white'  to="/women">Women</Link>
-                    <Link className='hover:bg-slate-400 rounded px-2 hover:text-white'  to="/kid">Kids</Link>
+                    <Link className='hover:bg-slate-400 rounded px-2 hover:text-white'  to="/kids">Kids</Link>
                     <Link className='hover:bg-slate-400 rounded px-2 hover:text-white'  to="/blogs">Blogs</Link>
                 </div>
                 <div>
@@ -55,7 +55,7 @@ const Navber = () => {
                     <Link className='hover:bg-slate-400 rounded block px-3'  onClick={() => setOpenMenu(false)} to="/home">Home</Link>
                     <Link className='hover:bg-slate-400 rounded block px-3'  onClick={() => setOpenMenu(false)} to="/men">Men</Link>
                     <Link className='hover:bg-slate-400 rounded block px-3'  onClick={() => setOpenMenu(false)} to="/women">Women</Link>
-                    <Link className='hover:bg-slate-400 rounded block px-3'  onClick={() => setOpenMenu(false)} to="/kid">Kids</Link>
+                    <Link className='hover:bg-slate-400 rounded block px-3'  onClick={() => setOpenMenu(false)} to="/kids">Kids</Link>
                     <Link className='hover:bg-slate-400 rounded block px-3'  onClick={() => setOpenMenu(false)} to="/blogs">Blogs</Link>
                 </div>
             }

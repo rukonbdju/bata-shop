@@ -21,13 +21,13 @@ const Category = () => {
                 <h2 className=' text-white font-bold text-sm md:text-2xl lg:text-3xl absolute top-1/2 left-1/2 -translate-x-2/4 -translate-y-2/4'>WOMEN</h2>
                 </div>
             </Link>
-            <Link to='/kid'>
+            <Link to='/kids'>
                 <div className='group relative text-center overflow-hidden'>
                     <img className='brightness-50 group-hover:scale-125 duration-500 ' src={children} alt="" srcset="" />
                 <h2 className=' text-white font-bold text-base md:text-2xl lg:text-3xl absolute top-1/2 left-1/2 -translate-x-2/4 -translate-y-2/4'>KIDS</h2>
                 </div>
             </Link>
-            <Link to='/accessories'>
+            <Link to='/'>
                 <div className='group relative text-center overflow-hidden'>
                     <img className='brightness-50 group-hover:scale-125 duration-500 ' src={accessories} alt="" srcset="" />
                 <h2 className=' text-white font-bold text-base md:text-2xl lg:text-3xl absolute top-1/2 left-1/2 -translate-x-2/4 -translate-y-2/4'>ACCESSORIES</h2>

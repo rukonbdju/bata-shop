@@ -8,6 +8,7 @@ import Register from "./components/authentication/Register";
 import Men from "./components/men/Men";
 import Kid from "./components/kid/Kid";
 import Women from "./components/women/Women";
+import ProductDetails from "./components/productDetails/ProductDetails";
 
 function App() {
   return (
@@ -18,9 +19,10 @@ function App() {
         <Route path="/home" element={<Home/>}/>
         <Route path="/men" element={<Men/>}/>
         <Route path="/women" element={<Women/>}/>
-        <Route path="/kid" element={<Kid/>}/>
+        <Route path="/kids" element={<Kid/>}/>
         <Route path="/login" element={<Login/>}/>
         <Route path="/register" element={<Register/>}/>
+        <Route path="/products/:_id" element={<ProductDetails/>} />
       </Routes>
       <Footer></Footer>
     </div>

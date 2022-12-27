@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from 'react';
-import Product from './Product';
+import Product from '../shared/Product';
 
 const Leatest = () => {
     const [products,setProducts]=useState([]);
     useEffect(()=>{
-        fetch('products.json')
+        fetch('http://localhost:5000/products')
         .then(res=>res.json())
         .then(data=>setProducts(data))
     },[])
@@ -12,7 +12,7 @@ const Leatest = () => {
     return (
         <div className='w-11/12 mx-auto mb-10'>
             <h1 className='text-xl text-slate-800 font-bold mb-5 text-center uppercase'>New Products</h1>
-            <div className='flex flex-row overflow-auto gap-8 items-center justify-center  mb-5'>
+            <div className='flex flex-row overflow-auto gap-8 items-start justify-center  mb-5'>
                 <span className='font-bold bg-slate-200 border-2 border-red-500 cursor-pointer px-2 rounded-full'>Sneakers</span>
                 <span className='font-bold bg-slate-200 border-2 border-red-500 cursor-pointer px-2 rounded-full'>Sandals</span>
                 <span className='font-bold bg-slate-200 border-2 border-red-500 cursor-pointer px-2 rounded-full'>Casuals</span>
