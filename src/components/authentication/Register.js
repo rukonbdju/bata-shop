@@ -1,19 +1,30 @@
 import React, { useState } from 'react';
+import { useCreateUserWithEmailAndPassword } from 'react-firebase-hooks/auth';
 import { useForm } from 'react-hook-form';
 import join from '../../assets/auth/login.webp';
+import auth from '../../firebase.init';
 
 
 const Register = () => {
     const [passwordMatch,setPasswordMatch]=useState(false)
-    const { register, handleSubmit, formState: { errors } } = useForm();
+    const { register, handleSubmit, reset, formState: { errors } } = useForm();
     const [data,setData]=useState({})
-   // const [signUpWithEmailAndPassword, eUser, eLoading, eError] = useSignUpWithEmailAndPassword(auth);
+    const [
+        createUserWithEmailAndPassword,
+        user,
+        loading,
+        error,
+      ] = useCreateUserWithEmailAndPassword(auth);
     const onSubmit = (data, e) => {
         
         setData(data)
-        console.log(data, e)
-        //signUpWithEmailAndPassword(data.email,data.password)
+        createUserWithEmailAndPassword(data.email,data.password);
+
+        reset()
     };
+    console.log(user,loading,error)
+
+    
     const onError = (errors, e) => console.log(errors, e);
     return (
         <div className='w-11/12 mx-auto my-8'>
@@ -92,7 +103,7 @@ const Register = () => {
                     {errors.password?.type==='required'&& <p className='text-red-700'>{errors.password.message}</p>}
                     {data.password!==data.password2&& <p className='text-red-700'>Password does not match</p>}
                 </div>
-                <button className='border-2 p-2' type="submit">Login</button>
+                <button className='border-2 uppercase font-bold p-2' type="submit">Sign UP</button>
             </form>
             
         </div>

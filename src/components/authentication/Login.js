@@ -5,17 +5,23 @@ import { useSignInWithEmailAndPassword, useSignInWithGoogle } from 'react-fireba
 
 import login from '../../assets/auth/register.webp'
 import { signInWithEmailAndPassword } from 'firebase/auth';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 const Login = () => {
-
+    const [
+        signInWithEmailAndPassword,
+        user,
+        loading,
+        error,
+      ] = useSignInWithEmailAndPassword(auth);
+    const navigate = useNavigate();
     const { register, handleSubmit, formState: { errors } } = useForm();
     const onSubmit = (data, e) => {
         console.log(data, e)
         signInWithEmailAndPassword(data.email, data.password)
+        navigate('/home')
     };
     const onError = (errors, e) => console.log(errors, e);
     const [signInWithGoogle, gUser, gLoading, gError] = useSignInWithGoogle(auth);
-    const [SignInWithEmailAndPassword, eUser, eLoading, eError] = useSignInWithEmailAndPassword(auth);
 
     return (
         <section className='my-10 w-5/6 mx-auto '>
