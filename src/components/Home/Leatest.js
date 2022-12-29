@@ -20,9 +20,9 @@ const Leatest = () => {
                 <span className='font-bold bg-slate-200 border-2 border-red-500 cursor-pointer px-2 rounded-full'>Accessories</span>
                 <span className='font-bold bg-slate-200 border-2 border-red-500 cursor-pointer px-2 rounded-full'>Sports</span>
             </div>
-            <div className='grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-5  justify-center items-center'>
+            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5  justify-center items-center'>
             {
-                products.map(product=><Product key={product.name} product={product}></Product>)
+            products.map(product=><Product key={product._id} product={product}></Product>)
             }
         </div>
         </div>

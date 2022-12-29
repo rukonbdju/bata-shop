@@ -11,25 +11,25 @@ const Category = () => {
             <div className='grid grid-cols-2 lg:grid-cols-4 gap-4 md:gap-8 lg:gap-10 items-center'>
             <Link to="/men">
                 <div className=' group relative text-center overflow-hidden'>
-                    <img className='brightness-50 group-hover:scale-125 duration-500 ' src={men} alt="" srcset="" />
+                    <img className='brightness-50 group-hover:scale-125 duration-500 ' src={men} alt="" srcSet="" />
                 <h2 className=' text-white font-bold text-base md:text-2xl lg:text-3xl absolute top-1/2 left-1/2 -translate-x-2/4 -translate-y-2/4'>MEN</h2>
                 </div>
             </Link>
             <Link to='/women'>
                 <div className=' group relative text-center overflow-hidden'>
-                    <img className='brightness-50 group-hover:scale-125 duration-500 ' src={women} alt="" srcset="" />
+                    <img className='brightness-50 group-hover:scale-125 duration-500 ' src={women} alt="" srcSet="" />
                 <h2 className=' text-white font-bold text-sm md:text-2xl lg:text-3xl absolute top-1/2 left-1/2 -translate-x-2/4 -translate-y-2/4'>WOMEN</h2>
                 </div>
             </Link>
             <Link to='/kids'>
                 <div className='group relative text-center overflow-hidden'>
-                    <img className='brightness-50 group-hover:scale-125 duration-500 ' src={children} alt="" srcset="" />
+                    <img className='brightness-50 group-hover:scale-125 duration-500 ' src={children} alt="" srcSet="" />
                 <h2 className=' text-white font-bold text-base md:text-2xl lg:text-3xl absolute top-1/2 left-1/2 -translate-x-2/4 -translate-y-2/4'>KIDS</h2>
                 </div>
             </Link>
             <Link to='/'>
                 <div className='group relative text-center overflow-hidden'>
-                    <img className='brightness-50 group-hover:scale-125 duration-500 ' src={accessories} alt="" srcset="" />
+                    <img className='brightness-50 group-hover:scale-125 duration-500 ' src={accessories} alt="" srcSet="" />
                 <h2 className=' text-white font-bold text-base md:text-2xl lg:text-3xl absolute top-1/2 left-1/2 -translate-x-2/4 -translate-y-2/4'>ACCESSORIES</h2>
                 </div>
             </Link>

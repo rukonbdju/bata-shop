@@ -6,7 +6,7 @@ import Product from '../shared/Product';
 
 const Women = () => {
     const location=useLocation()
-    const {products,error,loading}=useProducts(location.pathname)
+    const {products}=useProducts(location.pathname)
     return (
        <div>
         <Slider></Slider>

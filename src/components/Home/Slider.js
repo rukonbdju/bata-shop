@@ -12,7 +12,7 @@ import img4 from "../../assets/banner/banner4.webp"
 import img5 from "../../assets/banner/banner5.webp"
 const Slider = () => {
     return (
-        <div>
+        <div className='mt-10'>
             <Swiper
         spaceBetween={30}
         centeredSlides={true}
@@ -27,12 +27,12 @@ const Slider = () => {
         modules={[Autoplay, Pagination, Navigation]}
         className="mySwiper"
       >
-        <SwiperSlide><img className='w-full' src={img0} alt="" srcset="" /></SwiperSlide>
-        <SwiperSlide><img className='w-full' src={img1} alt="" srcset="" /></SwiperSlide>
-        <SwiperSlide><img className='w-full' src={img2} alt="" srcset="" /></SwiperSlide>
-        <SwiperSlide><img className='w-full' src={img3} alt="" srcset="" /></SwiperSlide>
-        <SwiperSlide><img className='w-full' src={img4} alt="" srcset="" /></SwiperSlide>
-        <SwiperSlide><img className='w-full' src={img5} alt="" srcset="" /></SwiperSlide>
+        <SwiperSlide><img className='w-full' src={img0} alt="" srcSet="" /></SwiperSlide>
+        <SwiperSlide><img className='w-full' src={img1} alt="" srcSet="" /></SwiperSlide>
+        <SwiperSlide><img className='w-full' src={img2} alt="" srcSet="" /></SwiperSlide>
+        <SwiperSlide><img className='w-full' src={img3} alt="" srcSet="" /></SwiperSlide>
+        <SwiperSlide><img className='w-full' src={img4} alt="" srcSet="" /></SwiperSlide>
+        <SwiperSlide><img className='w-full' src={img5} alt="" srcSet="" /></SwiperSlide>
       </Swiper>
         </div>
     );

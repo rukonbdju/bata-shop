@@ -5,7 +5,7 @@ import Product from '../shared/Product';
 
 const Kid = () => {
     const location=useLocation()
-    const {products,error,loading}=useProducts(location.pathname)
+    const {products}=useProducts(location.pathname)
     return (
         <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 w-5/6 mx-auto my-10 justify-center gap-4'>
             {
